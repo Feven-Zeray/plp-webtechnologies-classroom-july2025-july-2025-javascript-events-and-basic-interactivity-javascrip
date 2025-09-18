@@ -1,0 +1,12 @@
+/* style.css */
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+#interactive-section {
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+}
